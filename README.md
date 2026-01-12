@@ -7,7 +7,7 @@
 
 > An intelligent web application leveraging machine learning to predict mental health treatment-seeking behavior based on workplace and demographic factors.
 
-## � Oveurview
+## � Overview
 
 This full-stack machine learning application addresses the critical challenge of understanding mental health treatment patterns in professional environments. Using a trained Logistic Regression model, the system analyzes eight key psychosocial and workplace factors to predict the likelihood of individuals seeking mental health treatment.
 
