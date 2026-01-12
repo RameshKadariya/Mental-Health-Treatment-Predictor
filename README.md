@@ -229,6 +229,6 @@ For questions, issues, or collaboration opportunities, please reach out via emai
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by Ramesh Kadariya
+Made by Ramesh Kadariya
 
 </div>
